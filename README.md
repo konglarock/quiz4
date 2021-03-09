@@ -5,3 +5,4 @@
 * เมื่อทำเสร็จ จงแชร์ลิงค์ของแอพพลิเคชันที่ deploy ด้วย heroku ไว้ใน readme.md นี้
 * จงเขียนชื่อ-นามสกุล และรหัสของนักศึกษา ลงในไฟล์ readme.md นี้ 
 พลกฤต ทองช่วย 620610799
+https://kongla-test-express-heroku.herokuapp.com/
